@@ -1,1 +1,1 @@
-# terraform-infraesctruture-base
+# terraform-infrastructure-base
